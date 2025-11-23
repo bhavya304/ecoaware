@@ -2,6 +2,7 @@
   "name": "ecoaware-frontend",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://bhavya304.github.io/ecoaware",
   "dependencies": {
     "@popperjs/core": "^2.11.8",
     "@react-google-maps/api": "^2.20.7",
